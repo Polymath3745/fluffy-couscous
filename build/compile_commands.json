@@ -1,0 +1,43 @@
+[
+{
+  "directory": "/home/gabriel/Desktop/C++/fluffy-couscous/build",
+  "command": "/usr/bin/g++   -I../src/BankDir  -g   -o src/CMakeFiles/MAIN.dir/main.cpp.o -c /home/gabriel/Desktop/C++/fluffy-couscous/src/main.cpp",
+  "file": "/home/gabriel/Desktop/C++/fluffy-couscous/src/main.cpp"
+},
+
+{
+  "directory": "/home/gabriel/Desktop/C++/fluffy-couscous/build",
+  "command": "/usr/bin/g++    -g   -o src/BankDir/CMakeFiles/BankLib.dir/Account.cpp.o -c /home/gabriel/Desktop/C++/fluffy-couscous/src/BankDir/Account.cpp",
+  "file": "/home/gabriel/Desktop/C++/fluffy-couscous/src/BankDir/Account.cpp"
+},
+
+{
+  "directory": "/home/gabriel/Desktop/C++/fluffy-couscous/build",
+  "command": "/usr/bin/g++   -isystem ../googletest/googletest/include -isystem ../googletest/googletest  -g   -o test/CMakeFiles/TESTS.dir/test_example.cpp.o -c /home/gabriel/Desktop/C++/fluffy-couscous/test/test_example.cpp",
+  "file": "/home/gabriel/Desktop/C++/fluffy-couscous/test/test_example.cpp"
+},
+
+{
+  "directory": "/home/gabriel/Desktop/C++/fluffy-couscous/build",
+  "command": "/usr/bin/g++   -isystem ../googletest/googlemock/include -isystem ../googletest/googlemock -isystem ../googletest/googletest/include -isystem ../googletest/googletest  -g   -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o test/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/gabriel/Desktop/C++/fluffy-couscous/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/gabriel/Desktop/C++/fluffy-couscous/googletest/googlemock/src/gmock_main.cc"
+},
+
+{
+  "directory": "/home/gabriel/Desktop/C++/fluffy-couscous/build",
+  "command": "/usr/bin/g++   -I../googletest/googlemock/include -I../googletest/googlemock -isystem ../googletest/googletest/include -isystem ../googletest/googletest  -g   -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o test/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/gabriel/Desktop/C++/fluffy-couscous/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/gabriel/Desktop/C++/fluffy-couscous/googletest/googlemock/src/gmock-all.cc"
+},
+
+{
+  "directory": "/home/gabriel/Desktop/C++/fluffy-couscous/build",
+  "command": "/usr/bin/g++   -isystem ../googletest/googletest/include -isystem ../googletest/googletest  -g   -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o test/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/gabriel/Desktop/C++/fluffy-couscous/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/gabriel/Desktop/C++/fluffy-couscous/googletest/googletest/src/gtest_main.cc"
+},
+
+{
+  "directory": "/home/gabriel/Desktop/C++/fluffy-couscous/build",
+  "command": "/usr/bin/g++   -I../googletest/googletest/include -I../googletest/googletest  -g   -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o test/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/gabriel/Desktop/C++/fluffy-couscous/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/gabriel/Desktop/C++/fluffy-couscous/googletest/googletest/src/gtest-all.cc"
+}
+]
