@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/MAIN.dir/main.cpp.o  -o MAIN  BankDir/libBankLib.a 

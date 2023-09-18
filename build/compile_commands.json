@@ -1,19 +1,19 @@
 [
 {
   "directory": "/home/gabriel/Desktop/C++/fluffy-couscous/build",
+  "command": "/usr/bin/g++    -g   -o src/CMakeFiles/BankLib.dir/Account.cpp.o -c /home/gabriel/Desktop/C++/fluffy-couscous/src/Account.cpp",
+  "file": "/home/gabriel/Desktop/C++/fluffy-couscous/src/Account.cpp"
+},
+
+{
+  "directory": "/home/gabriel/Desktop/C++/fluffy-couscous/build",
   "command": "/usr/bin/g++   -I../src/BankDir  -g   -o src/CMakeFiles/MAIN.dir/main.cpp.o -c /home/gabriel/Desktop/C++/fluffy-couscous/src/main.cpp",
   "file": "/home/gabriel/Desktop/C++/fluffy-couscous/src/main.cpp"
 },
 
 {
   "directory": "/home/gabriel/Desktop/C++/fluffy-couscous/build",
-  "command": "/usr/bin/g++    -g   -o src/BankDir/CMakeFiles/BankLib.dir/Account.cpp.o -c /home/gabriel/Desktop/C++/fluffy-couscous/src/BankDir/Account.cpp",
-  "file": "/home/gabriel/Desktop/C++/fluffy-couscous/src/BankDir/Account.cpp"
-},
-
-{
-  "directory": "/home/gabriel/Desktop/C++/fluffy-couscous/build",
-  "command": "/usr/bin/g++   -isystem ../googletest/googletest/include -isystem ../googletest/googletest  -g   -o test/CMakeFiles/TESTS.dir/test_example.cpp.o -c /home/gabriel/Desktop/C++/fluffy-couscous/test/test_example.cpp",
+  "command": "/usr/bin/g++   -I../test/../src/BankDir -isystem ../googletest/googletest/include -isystem ../googletest/googletest  -g   -o test/CMakeFiles/TESTS.dir/test_example.cpp.o -c /home/gabriel/Desktop/C++/fluffy-couscous/test/test_example.cpp",
   "file": "/home/gabriel/Desktop/C++/fluffy-couscous/test/test_example.cpp"
 },
 

@@ -8,6 +8,11 @@ add_subdirectory(BankDir)
 
 add_executable(MAIN main.cpp)
 
-target_include_directories(MAIN PRIVATE BankDir)
+target_include_directories(MAIN PUBLIC BankDir)
+
+# Define "BankLib" here
+add_library(BankLib
+    Account.cpp
+)
 
 target_link_libraries(MAIN PRIVATE BankLib)

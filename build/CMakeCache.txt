@@ -18,12 +18,6 @@
 BUILD_GMOCK:BOOL=ON
 
 //Value Computed by CMake
-BankLib_BINARY_DIR:STATIC=/home/gabriel/Desktop/C++/fluffy-couscous/build/src/BankDir
-
-//Value Computed by CMake
-BankLib_SOURCE_DIR:STATIC=/home/gabriel/Desktop/C++/fluffy-couscous/src/BankDir
-
-//Value Computed by CMake
 Bank_Account_Proj_BINARY_DIR:STATIC=/home/gabriel/Desktop/C++/fluffy-couscous/build
 
 //Value Computed by CMake
@@ -486,7 +480,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=7
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=8
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
