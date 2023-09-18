@@ -1083,7 +1083,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "8"
+			"value" : "6"
 		},
 		{
 			"name" : "CMAKE_OBJCOPY",
@@ -1790,30 +1790,6 @@
 			"value" : "OFF"
 		},
 		{
-			"name" : "src_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/gabriel/Desktop/C++/fluffy-couscous/build/src"
-		},
-		{
-			"name" : "src_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/gabriel/Desktop/C++/fluffy-couscous/src"
-		},
-		{
 			"name" : "targets_export_name",
 			"properties" : 
 			[
@@ -1824,30 +1800,6 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "GTestTargets"
-		},
-		{
-			"name" : "test_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/gabriel/Desktop/C++/fluffy-couscous/build/test"
-		},
-		{
-			"name" : "test_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/gabriel/Desktop/C++/fluffy-couscous/test"
 		}
 	],
 	"kind" : "cache",

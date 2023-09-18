@@ -26,19 +26,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 9,
+				"line" : 18,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 18,
+				"line" : 24,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 11,
+				"line" : 21,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/home/gabriel/Desktop/C++/fluffy-couscous/src/BankDir"
+					"path" : "/home/gabriel/Desktop/C++/fluffy-couscous/src/helpers"
 				}
 			],
 			"language" : "CXX",
@@ -70,7 +70,7 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "BankLib::@145eef247bfb46b6828c"
+			"id" : "MyCoreLib::@145eef247bfb46b6828c"
 		}
 	],
 	"id" : "MAIN::@145eef247bfb46b6828c",
@@ -88,7 +88,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "libBankLib.a",
+				"fragment" : "libMyCoreLib.a",
 				"role" : "libraries"
 			}
 		],

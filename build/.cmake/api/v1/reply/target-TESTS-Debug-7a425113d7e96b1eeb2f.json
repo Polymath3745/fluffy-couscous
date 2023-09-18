@@ -27,31 +27,25 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 9,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
 				"line" : 14,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 17,
+				"line" : 19,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 11,
+				"line" : 16,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 7,
+				"line" : 12,
 				"parent" : 0
 			}
 		]
@@ -68,16 +62,16 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 4,
-					"path" : "/home/gabriel/Desktop/C++/fluffy-couscous/test/../src/BankDir"
+					"backtrace" : 3,
+					"path" : "/home/gabriel/Desktop/C++/fluffy-couscous/test/../src/helpers"
 				},
 				{
-					"backtrace" : 5,
+					"backtrace" : 4,
 					"isSystem" : true,
 					"path" : "/home/gabriel/Desktop/C++/fluffy-couscous/googletest/googletest/include"
 				},
 				{
-					"backtrace" : 5,
+					"backtrace" : 4,
 					"isSystem" : true,
 					"path" : "/home/gabriel/Desktop/C++/fluffy-couscous/googletest/googletest"
 				}
@@ -91,10 +85,6 @@
 	],
 	"dependencies" : 
 	[
-		{
-			"backtrace" : 3,
-			"id" : "BankLib::@145eef247bfb46b6828c"
-		},
 		{
 			"backtrace" : 2,
 			"id" : "gtest_main::@0c41a4af7da23b8d478e"
@@ -125,11 +115,6 @@
 			{
 				"backtrace" : 2,
 				"fragment" : "../lib/libgtest_main.a",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 3,
-				"fragment" : "../src/libBankLib.a",
 				"role" : "libraries"
 			},
 			{
